@@ -22,3 +22,8 @@ tcp sits in the osi model
 conceptual models, osi models, tct model (using a table)
 
 osi application layer talking about system /  networking applications (transferring information etc.)
+
+IEEE (802.3, etc.) standards about physical cabling and transmission of data
+
+
+protocols ipv4 (ipv6)
