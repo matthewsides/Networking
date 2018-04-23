@@ -28,7 +28,7 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud 
 
-The Cloud is referred to as a computer network that exists within or is part of a cloud computing infrastructure.
+The Cloud is referred to as a computer network that exists within or is part of a cloud computing infrastructure.A  cloud is a collection of computer systems. 
 
 
 The cloud is collaborative, allowing the alteraction of a document simintanouseasly 
