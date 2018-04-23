@@ -28,7 +28,7 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud Cluster
 
-
+Cluster differs from Cloud and Grid in that a cluster is a group of computers connected by a local area network (LAN), whereas cloud and grid are more wide scale and can be geographically distributed.
 
 ### Centralised
 
