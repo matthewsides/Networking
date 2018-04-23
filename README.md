@@ -18,7 +18,11 @@ In addition the network is robust in the sense that noone is in charge, though c
 The Client-server is a centeralised distrubution network model that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients. The client server functions similairly to a request response messaging pattern.The client sends a request, and the server returns a response (exchange of messages is an example of  inter-process communication).
 
 
-The benefits of using a Client-server 
+A benefit of a Client-server network is that the access, resources and integrity of the data are controlled by a dedicated server ensuring that  a program or unauthorised clients cannot damage the system. This centralization also facilitates task of updating data or other resources (better than the networks P2P). 
+
+
+
+
 client requesting information with the server carrying out that information, any commercial network is a client - server network. in a request–response messaging pattern
 
 
