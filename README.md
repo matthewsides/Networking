@@ -11,7 +11,7 @@ A Peer to Peer network is in essence a conglomerate of computers that distribute
 
 The network is acknowledged for its simplicity with regards to the ease of set up and flexability, a benefit in using the network as the autonomous aspect grants user's the option to join or leave a network. Whilst the resources required to set up a Peer to Peer encompass; at least two computers, a network adapter for each computer or a cross over cable (cables), network configuration, protocol stack.
 
-In addition network is robust in the sense that noone is in charge, though consequently if someone leaves the network during a download the information is lost.  
+In addition the network is robust in the sense that noone is in charge, though consequently an issue is if someone leaves the network during a download the information is lost.  
 
 
 ### Client Server 
