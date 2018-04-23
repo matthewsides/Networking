@@ -9,6 +9,11 @@ The below sections explain the benefits and constraints of different network typ
 
 A Peer to Peer network is in essence a conglomerate of computers that distribute and partition tasks or workloads between eachother,sharing resources. The network is termed "Peer to Peer" due to the lenient restraints and permissive nature, distributing or giving equal access to all systems connected to the network. 
 
+The network is known for its simplicity with the ease of set up and flexability allowing user's to join and leave. Whilst the robust nature 
+
+Advantage is its simplicity with the ease of set up (can join and leave) and cost 
+robust in the sense because nobodys in charge , though consequently if someone drops out of the network when your downloading its lost.
+
 ### Client Server 
 
 
