@@ -13,9 +13,13 @@ The network is acknowledged for its simplicity with regards to the ease of set u
 
 In addition the network is robust in the sense that noone is in charge, though consequently an issue is if someone leaves the network during a download the information is lost.  
 
-### Client Server 
+### Client server 
 
-The client server is a centeralised distrubution network model that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.
+The Client-server is a centeralised distrubution network model that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients. The client server functions similairly to a request response messaging pattern.The client sends a request, and the server returns a response (exchange of messages is an example of  inter-process communication).
+
+
+The benefits of using a Client-server 
+client requesting information with the server carrying out that information, any commercial network is a client - server network. in a request–response messaging pattern
 
 
 ### Cloud Cluster
@@ -56,3 +60,6 @@ your address on the internet (private addressess not viable in the internet / pu
 
 
 dns (domain name system) -  converts domain names to ip addressess and vice versa (ip addressess to domain names) ask parent dns if dont know (6-7 route dns systems in the world) information constantly updated
+
+
+To communicate, the computers must have a common language, and they must follow rules so that both the client and the server know what to expect. The language and rules of communication are defined in a communications protocol. All client-server protocols operate in the application layer. The application layer protocol defines the basic patterns of the dialogue. To formalize the data exchange even further, the server may implement an application programming interface (API).[3] The API is an abstraction layer for accessing a service. By restricting communication to a specific content format, it facilitates parsing. By abstracting access, it facilitates cross-platform data exchange.
