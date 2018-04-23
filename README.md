@@ -28,13 +28,14 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud 
 
+The cloud is collaborative as you can edit documents simintanouesly over the internet.
+
+
 ### Cluster
 
 Cluster differs from Cloud and Grid in that a cluster is a group of computers connected by a local area network (LAN), whereas cloud and grid are more wide scale and can be geographically distributed. The networked computers essentially act as a single, much more powerful machine. A computer cluster provides much faster processing speed, larger storage capacity, better data integrity, superior reliability and wider availability of resources.
 
 However a disadvantage of a cluster network (computer clusters) is that it is not cost efficent, costing more to implement and maintain. This results in much higher running overhead compared to a single computer.
-
-
 
 ### Centralised
 
