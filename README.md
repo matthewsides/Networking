@@ -28,7 +28,9 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud 
 
-The cloud is collaborative as you can edit documents simintanouesly over the internet.
+The cloud is collaborative, allowing the alteraction of a document simintanouseasly 
+
+mesh topology 
 
 
 ### Cluster
