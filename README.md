@@ -26,9 +26,15 @@ Though a problem in the paradigm (model) Client-server is traffic congestion, si
 Moreover the Client - server network due to the Classic centralisation, does not have the robustness of a network P2P.This is because as there is only one hub, when the hub is down, customer requests cannot be met.
 
 
-### Cloud Cluster
+### Cloud 
 
-Cluster differs from Cloud and Grid in that a cluster is a group of computers connected by a local area network (LAN), whereas cloud and grid are more wide scale and can be geographically distributed.
+### Cluster
+
+Cluster differs from Cloud and Grid in that a cluster is a group of computers connected by a local area network (LAN), whereas cloud and grid are more wide scale and can be geographically distributed. The networked computers essentially act as a single, much more powerful machine. A computer cluster provides much faster processing speed, larger storage capacity, better data integrity, superior reliability and wider availability of resources.
+
+However Computer clusters are, however much more costly to implement and maintain. This results in much higher running overhead compared to a single computer.
+
+
 
 ### Centralised
 
