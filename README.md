@@ -30,4 +30,4 @@ protocols ipv4 (ipv6) ipv4 run out of ip addressess have tech to minimize the nu
 your address on the internet (private addressess not viable in the internet / public avaliable on the internet)
 
 
-dns (domain name system)
+dns (domain name system) -  converts domain names to ip addressess and vice versa (ip addressess to domain names)
