@@ -28,6 +28,8 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud Cluster
 
+
+
 ### Centralised
 
 ### Virtualised  
