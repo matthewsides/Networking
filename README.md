@@ -14,6 +14,10 @@ talk about osi and tcp and the point of the conceptual models (gives us visualis
 
 tcp protocol is not the same as the model
 
+comparision between two 
+
+tcp sits in the osi model 
+
 
 conceptual models, osi models, tct model (using a table)
 
