@@ -20,10 +20,10 @@ The Client-server is a centeralised distrubution network model that partitions t
 
 A benefit of a Client-server network is that the access, resources and integrity of the data are controlled by a dedicated server ensuring that  a program or unauthorised clients cannot damage the system. This centralization also facilitates task of updating data or other resources (better than the networks P2P). 
 
+Whilst the server and clients capacity can be increased seperately, with any element enhanced at any time, or new nodes being added to the network (client or servers).The Client -server also heralds easy maintenance with the distribution of roles and responsibilities spread across several standalone computers. While it is plausable to replace, repair, upgrade, or move a server, during run time with customers minimally affected.This independence of the changes is also known as encapsulation.
 
 
 
-client requesting information with the server carrying out that information, any commercial network is a client - server network. in a request–response messaging pattern
 
 
 ### Cloud Cluster
