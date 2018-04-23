@@ -53,6 +53,9 @@ purpose, benefits, resource implications, communications, working practice, comm
 Purpose, benefits,resources required (servers software, cost, money, a lot or not much required), communications working practices, advantages from a working point of view, collaboration, etc.
 
 
+commercialisation
+
+
 benefits and constraints
 
 talk about osi and tcp and the point of the conceptual models (gives us visualisation, can agree it and share the same information having a common understanding / a way of companys and manufacturers agreeing how it should be done creating standards ensuring they can communicate ways to agree how to solve problems ensuring things support the big picture)
