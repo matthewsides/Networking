@@ -7,7 +7,7 @@ The below sections explain the benefits and constraints of different network typ
 
 ### Peer to Peer
 
-A Peer to Peer network is in essence a conglomerate of computers that distribute and partition tasks or workloads between eachother,sharing resources. The network is termed "Peer to Peer" due to the lenient restraints and permissive nature, distributing or giving equal access to all systems connected to the network. 
+A Peer to Peer network is in essence a conglomerate of computers that distribute and partition tasks or workloads between eachother,sharing resources. The network is termed "Peer to Peer" due to the lenient restraints and permissive nature, distributing or giving equal access to all systems connected to the network.  Peers are inprinciple coequal, or equipotent nodes in a non-hierarchical network.
 
 The network is acknowledged for its simplicity with regards to the ease of set up and flexability, a benefit in using the network as the autonomous aspect grants user's the option to join or leave a network. Whilst the resources required to set up a Peer to Peer encompass; at least two computers, a network adapter for each computer or a cross over cable (cables), network configuration, protocol stack.
 
