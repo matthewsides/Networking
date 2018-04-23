@@ -1,7 +1,26 @@
 
 # Networking 
 
-# Networking Types and Standards
+## Networking Types and Standards
+
+The below sections explain the benefits and constraints of different network types and standards. The purpose of any network is to share resources.
+
+### Peer to Peer
+
+A Peer to Peer network is in essence a conglomerate of computers that distribute and partition tasks or workloads between eachother,sharing resources. The network is termed "Peer to Peer" due to the lenient restraints and permissive nature, distributing or giving equal access to all systems connected to the network. 
+
+### Client Server 
+
+
+### Cloud Cluster
+
+### Centralised
+
+### Virtualised  
+
+
+purpose, benefits, resource implications, communications, working practice, commercial opportunity, information sharing, collaboration
+
 
 Purpose, benefits,resources required (servers software, cost, money, a lot or not much required), communications working practices, advantages from a working point of view, collaboration, etc.
 
