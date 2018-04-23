@@ -26,4 +26,5 @@ osi application layer talking about system /  networking applications (transferr
 IEEE (802.3, etc.) standards about physical cabling and transmission of data
 
 
-protocols ipv4 (ipv6)
+protocols ipv4 (ipv6) ipv4 run out of ip addressess have tech to minimize the number of addressess used /  classic internet protocol
+your address on the internet (private addressess not viable in the internet / public avaliable on the internet)
