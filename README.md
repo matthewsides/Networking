@@ -13,9 +13,9 @@ The network is acknowledged for its simplicity with regards to the ease of set u
 
 In addition the network is robust in the sense that noone is in charge, though consequently an issue is if someone leaves the network during a download the information is lost.  
 
-
 ### Client Server 
 
+The client server is a centeralised distrubution network model that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.
 
 
 ### Cloud Cluster
