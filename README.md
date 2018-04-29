@@ -40,7 +40,9 @@ However a disadvantage of a cluster network (computer clusters) is that it is no
 
 ### Centralised
 
-A Centralised network is essentially a type of network where all users connect to a central server, which is the acting agent for all communications. This server would store both the communications and the user account information. The central server, in turn, is responsible for delivering application logic, processing and providing computing resources (both basic and complex) to the attached client machines.
+A Centralised network is essentially a type of network where all users connect to a central server, which is the acting agent for all communications. This server would store both the communications and the user account information. The central server, in turn, is responsible for delivering application logic, processing and providing computing resources (both basic and complex) to the attached client machines. The benefits of using a centralised network include; less network interaction to fetch data (fast), ease of management (only a single management node) and could be automatized (though could also be regarded as a disadvantage depending on the situation).
+
+Though the implications of a centeralised network stems from there being only one single point of failure, meaning that if the server is down for various reasons, user's will not be able to access said data until the server is fixed. Whilst as alliterated there is only one central server in a network thus leaving it vulnerable and making it easier for hackers to attain information since it is stored in one place, this is particularly crucial with regards to an organisation setting where valuable user information is being held or required to be stored.
 
 ### Virtualised  
 
