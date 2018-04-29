@@ -32,9 +32,6 @@ The Cloud is referred to as a computer network that exists within or is part of 
 
 However a disadvantage of using cloud is that internet access is required, otherwise the information stored is unattainable. Whilst in certain instances storing files on the cloud may require a form of capital, the payment scheme is usually a monthly or yearly plan that opts to establish the pricing based on the amount of storage allocated. In addition failure to supply capital and meet deadlines, generally leads to a foreclosure of the space charted, meaning that the information stored will not be available unless a payment is made.Though the information is inaccessible it should still be stored for a pre-set amount of time until the company hosting the data can confirm that the user may either no longer make payments or that the data stored is no longer credible to the user. 
 
-
-
-
 ### Cluster
 
 Cluster differs from Cloud and Grid in that a cluster is a group of computers connected by a local area network (LAN), whereas cloud and grid are more wide scale and can be geographically distributed. The networked computers essentially act as a single, much more powerful machine. A computer cluster provides much faster processing speed, larger storage capacity, better data integrity, superior reliability and wider availability of resources.
