@@ -46,6 +46,7 @@ Though the implications of a centeralised network stems from there being only on
 
 ### Virtualised  
 
+Network virtualisation  is the process of combining hardware and software network resources and network functionality into a single, software-based administrative entity, a virtual network.
 
 purpose, benefits, resource implications, communications, working practice, commercial opportunity, information sharing, collaboration
 
