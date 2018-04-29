@@ -28,10 +28,9 @@ Moreover the Client - server network due to the Classic centralisation, does not
 
 ### Cloud 
 
-The Cloud is referred to as a computer network that exists within or is part of a cloud computing infrastructure.A  cloud is a collection of computer systems. 
+The Cloud is referred to as a computer network that exists within or is part of a cloud computing infrastructure.A  cloud is a collection of computer systems.Cloud computing fudementally refers to the storage and accessing of data and programs over the internet instead of through a computer's harddrive.The cloud's benefits stem from the collaborative nature, allowing the alteraction of a document simintanouseasly or in real time.
 
-
-The cloud is collaborative, allowing the alteraction of a document simintanouseasly 
+However a disadvantage of using cloud is that internet access is required, otherwise the information stored is unattainable. Whilst in certain instances storing files on the cloud may require a form of capital, the payment scheme is usually a monthly or yearly plan that opts to establish the pricing based on the amount of storage allocated.
 
 
 
