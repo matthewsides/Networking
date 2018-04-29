@@ -46,15 +46,9 @@ Though the implications of a centeralised network stems from there being only on
 
 ### Virtualised  
 
-Network virtualisation  is the process of combining hardware and software network resources and network functionality into a single, software-based administrative entity, a virtual network.
+Network virtualisation  is the process of combining hardware and software network resources and network functionality into a single, software-based administrative entity, a virtual network. Network virtualisation is designed to allow network optimization of data transfer rates, flexibility, scalability, reliability and security. Network virtualization is especially useful for networks experiencing a rapid, large and unpredictable increase in usage. This is due to the seperation of   available bandwidth into independent channels, which are assigned, or reassigned, in real time to separate servers or network devices.
 
-purpose, benefits, resource implications, communications, working practice, commercial opportunity, information sharing, collaboration
-
-
-Purpose, benefits,resources required (servers software, cost, money, a lot or not much required), communications working practices, advantages from a working point of view, collaboration, etc.
-
-
-commercialisation
+The intended result of network virtualization is improved network productivity and efficiency, as well as job satisfaction for the network administrator.
 
 
 benefits and constraints
