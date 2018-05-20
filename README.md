@@ -91,6 +91,7 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 |Layer 1   | Network access Layer| The Network access layer is the lowest level of the TCP/IP protocol stack and functions carried out here include encapsulation of IP packets into frames for transmission, mapping IP addresses to physical hardware addresses (MAC Addresses) and the use of protocols for the physical transmission of data. |
 
 
+### Model Differences  
 
 |                         |                           |
 |-------------------------|---------------------------|
