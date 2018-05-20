@@ -109,11 +109,14 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 | It has 7 layers                          | It has 4 layers                               |
 
 
-### IEEE (802.3, etc.) standards about physical cabling and transmission of data
+### IEEE (802.3,.7,.8,.11) standards about physical cabling and transmission of data
 
 
 
 ### Routed Protocols (IPV4,IPV6)
+
+
+### Service And Network Applications
 
 
 benefits and constraints
