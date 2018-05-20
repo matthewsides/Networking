@@ -106,9 +106,14 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 |Network layer of OSI model provides both connection oriented and connectionless service. | The Network layer in TCP/IP model provides connectionless service.|
 | OSI model has a problem of fitting the protocols into the model. | TCP/IP model does not fit any protocol. |     
 | OSI model defines services, interfaces and protocols very clearly and makes clear distinction between them. It is protocol independent.                                                             | In TCP/IP, services, interfaces and protocols are not clearly separated. It is also protocol dependent.
-| It has 7 layers  It has 7 layers                          | It has 4 layers                               |
+| It has 7 layers                          | It has 4 layers                               |
 
 
+### IEEE (802.3, etc.) standards about physical cabling and transmission of data
+
+
+
+### Routed Protocols (IPV4,IPV6)
 
 
 benefits and constraints
