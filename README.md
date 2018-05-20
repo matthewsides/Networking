@@ -62,9 +62,9 @@ The Open systems interconnection model is an conceptual framework referencing re
 | Layer 7 | Application Layer | The Applcation Layer is a medium for applications to access a network. The layer specifies and provides communication through the use of protocols, for instance the hyper text transfer protocol (HTTP) a type of hyper text, which is used for all web based languages (HTML, Java,PHP, etc.) transferred across a network. Whilst another example would be the simple mail transfer protocol used (SMPP) a protocol applied to emails. |
 | Layer 6 | Presentation Layer| The Presentation Layer essentially interprets the format.This means that the file type (jpeg, html ,etc)  is identified and if required converted, decrypted or compressed during this phase.                                               |
 | Layer 5 | Session Layer     | The Session Layer essentially establishes communications or sessions between systems or servers, also terminating when requested or necessary. The Session layers services also include authentication and reconnection after an interruption. |
-| Layer 4 | Transport Layer   | The Transport layer manages packetisation (seperation into segments and recapsulation) of data and the delivery of the packets, including checking for errors in the data upon arrival. The layer was developed by the department of defense ARPanet and given away for free. Apple and other companies created there own protocols, however the protocols were unpopular as people did not  want to become dependant on 
+| Layer 4 | Transport Layer   | The Transport layer manages packetisation (seperation into segments and recapsulation) of data and the delivery of the packets, including checking for errors in the data upon arrival. TCP and PCP are fudemental protocols generally used during this phase, developed in the 1960's by the department of defense ARPanet and made open source. Apple and other companies attempted to create there own protocols however they were not well recieved as people did not want to to become dependant on them, hence the reason TCP and PCP are primarly used. 
 
-and tcp and pcp was open source thus the reason why theses protocols are primarly used) Though other  the primarly reason for use among developers as although                                                |
+                                           |
 | Layer 3 | IP                |                                                  |
 | Layer 2 | Data Link         |                                                  |
 | Layer 1 | Physical          |                                                  |
@@ -81,7 +81,11 @@ Examples of an application protocol:
 
 Transmission control Protocol
 
-
+TCP three main functions - breaks up the data or chops into segments, this is done to ensure that if somthing goes wrong not all the information is lost, whilst it is also more efficent and quicker.In 1960's when tcp was developed the internet was slow so therefore it needed to chop the data into segments to make it quicker but it grew into somthing more useful)
+(TCP gives each segment a number or ID for rebuilding the information)
+(In order for the data to be reessembled into information it needs a tag, puts at least 4 pieces of information as a header |Every segment will have a sequence number thats how it puts itself together on the other side)
+Another tag must be attached to know the type of data being sent , the method to distinguish the format for presentation layer and transport(KEYS)| for each application layer protocol we use numbers (HTTP - 80| SMTP-25 FTP- 20 21 | DNS-53  OTCP-67 68 (FROM 1-1023 CALLED well known protocol numbers) encapsulation in this layer 4,2 and 3) (web server uses destination number,  destination  number identifys the type of service we want to access) (we need numbers because a server or machine may run multiple protocols (tcp support multiple protocols)so we need it to help identify) (reply comes back using the source code/port number | computer decides randomly grabbing a number from a pool but is between 1024 up to 4910)TCP is reliable as data is lose it gets it back using the number/did you receive? if not send back)
+first name web second name server|cant send data with only the user's name (need an physical address for a server or machine (IP address))
 
 
 
