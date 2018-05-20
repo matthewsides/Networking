@@ -78,7 +78,7 @@ Examples of an application protocol:
 
 ### TCP
 
-Transmission control Protocol
+TCP model is a conceptual model referencing the relationship of applications over a network. TCP though 
 
 
 
