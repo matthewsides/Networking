@@ -118,7 +118,7 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 ### Service And Network Applications
 
-
+https://searchnetworking.techtarget.com/definition/8023
 benefits and constraints
 
 talk about osi and tcp and the point of the conceptual models (gives us visualisation, can agree it and share the same information having a common understanding / a way of companys and manufacturers agreeing how it should be done creating standards ensuring they can communicate ways to agree how to solve problems ensuring things support the big picture)
