@@ -53,7 +53,7 @@ The intended result of network virtualization is improved network productivity a
 
 ### Two Conceptual Models
 
-There are two coneptual models applied, the reason for theses models is to ensure a general consensous as to how something should be done is formed between organisations. The models essentially give a visualisation to the proccess and standards that should be followed thus ensuring communciation and enabling organisations to agree on how to solve problems ensuring that the bigger picture is supported.
+There are two conceptual models applied, the reason for theses models is to ensure a general consensous as to how something should be done is formed between organisations. The models essentially give a visualisation to the proccess and standards that should be followed thus ensuring communciation and enabling organisations to agree on how to solve problems ensuring that the bigger picture is supported.
 
 
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/TCP_OSI_Models.png?raw=true "Optional Title")
