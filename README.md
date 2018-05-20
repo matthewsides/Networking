@@ -53,6 +53,8 @@ The intended result of network virtualization is improved network productivity a
 
 ### Two Conceptual Models
 
+![Alt text](https://github.com/matthewsides/Networking/blob/master/TCP_OSI_Models.png?raw=true "Optional Title")
+
 ### OSI 
 
 The Open systems interconnection model is an conceptual framework referencing relationships, demostrating how applications communicate over a network. OSI model's main concept is that the process of communication between two endpoints in a network can be divided into seven layers. In this architecture each layer serves the layer above it and, in turn, is served by the layer below it.
