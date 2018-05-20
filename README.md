@@ -63,15 +63,12 @@ The Open systems interconnection model is an conceptual framework referencing re
 | Layer 6 | Presentation Layer| The Presentation Layer essentially interprets the format.This means that the file type (jpeg, html ,etc)  is identified and if required converted, decrypted or compressed during this phase.                                               |
 | Layer 5 | Session Layer     | The Session Layer essentially establishes communications or sessions between systems or servers, also terminating when requested or necessary. The Session layers services also include authentication and reconnection after an interruption. |
 | Layer 4 | Transport Layer   | The Transport layer manages packetisation (seperation into segments and recapsulation) of data and the delivery of the packets, including checking for errors in the data upon arrival. TCP and PCP are fudemental protocols generally used during this phase, developed in the 1960's by the department of defense ARPanet and made open source. Apple and other companies attempted to create there own protocols however they were not well recieved as people did not want to to become dependant on them, hence the reason TCP and PCP are primarly used. TCP's main funcitons consist of breaking up data or chopping data into segments, this is done to ensure that if somthing goes wrong not all the information is lost, whilst it is also more efficent and quicker. TCP also gives each segment a number or ID for rebuilding the information. In order for the data to be reassembled into information it needs a tag, puts at least 4 pieces of information as a header. Every segment will have a sequence number thats how it puts itself together on the other side. |
-| Layer 3 | Network Layer     | The Network layer or IP, which is the network layer for the internet handles addressing and routing the data,  sending it in to the right destination on outgoing transmissions and receiving incoming transmissions at the packet level.      An IP address is 4 bytes generally looking like this: 00000000.00000000.00000000.00000000. Though four billion is concieved as not  enough anymore  hence  the release of IPV6.                            |
-| Layer 2 | Data Link         |                                                  |
-| Layer 1 | Physical          |                                                  |
+| Layer 3 | Network Layer     | The Network layer or IP, which is the network layer for the internet handles addressing and routing the data,  sending it in to the right destination on outgoing transmissions and receiving incoming transmissions at the packet level.      An IP address is 4 bytes generally looking like this: 00000000.00000000.00000000.00000000, each number cannot go over 255 (IP V4). Though four billion is concieved as not  enough anymore  hence  the release of IPV6. |
+| Layer 2 | Data Link         | The Data Link Layer sets up links across the physical network, transfering data between adjacent network nodes in a wide area network (WAN) or between nodes on the same local area network (LAN) segment (performs the most reliable node to node delivery of data).Data bits are encoded, decoded and organized in the data link layer.|
+| Layer 1 | Physical          | The physical layer is responsible for sending computer bits from one device to another along the network. The layer does not understand the bits, however is tasked with setting up physical connections over a network (node to node) and determining how the bits are represented. |
 
-Determines protocol and data syntax rules at the application level.
 
-Presents the data on the receiving end to the user application.
 
-Examples of an application protocol:
  
 
 
