@@ -74,7 +74,7 @@ The Open systems interconnection model is an conceptual framework referencing re
 
 ### TCP
 
-TCP model is a conceptual model referencing the relationship of applications over a network. TCP applies a similiar framework or structure to the OSI model however the TCP version excludes 3 layers opting only to use 4 of the layers. The TCP model is not the same as the TCP protocol as the TCP model is a ceoneptual model showing how applications communicate over a network, whilst the TCP protocol is a 
+TCP model is a conceptual model referencing the relationship of applications over a network. TCP applies a similiar framework or structure to the OSI model however the TCP version excludes 3 layers opting only to use 4 of the layers. The TCP model is not the same as the TCP protocol as the TCP model is a conceptual model showing how applications communicate over a network, whilst the TCP protocol is a offical  procedure concerned with data streaming and deliverly of data.
 
 
 
