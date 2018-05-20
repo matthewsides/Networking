@@ -59,11 +59,8 @@ The Open systems interconnection model is an conceptual framework referencing re
 
 |         |                   |                                                  |
 |---------|-------------------|--------------------------------------------------|
-| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes:     
-• Directory services - Locating a point or resources in a network. Ensuring that there is also exisitng communication interfaces.
-• Identification- Ensures that the receiving device is identified, can be reached and is ready to accept data. 
-• Authentication- If required authentication to occur between devices for an extra layer of security.
-• agreement at both ends about error recovery procedures, data integrity and privacy.
+| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes; ensuring that there is an exisiting communication interface, that the recieving device is identified and can bereached to accept data.     
+
 
 Determines protocol and data syntax rules at the application level.
 
