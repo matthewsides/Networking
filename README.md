@@ -59,20 +59,7 @@ The Open systems interconnection model is an conceptual framework referencing re
 
 |         |                   |                                                  |
 |---------|-------------------|--------------------------------------------------|
-| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes; ensuring that there is an exisiting communication interface, that the recieving device is identified and can bereached to accept data.     
-
-
-Determines protocol and data syntax rules at the application level.
-
-Presents the data on the receiving end to the user application.
-
-Examples of an application protocol:
- 
- 
-
-
-
-|
+| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes; ensuring that there is an exisiting communication interface, that the recieving device is identified and can bereached to accept data.     |
 | Layer 6 | Presentation Layer|                                                  |
 | Layer 5 | Session Layer     |                                                  |
 | Layer 4 | Transport Layer   |                                                  |
@@ -80,13 +67,12 @@ Examples of an application protocol:
 | Layer 2 | Data Link         |                                                  |
 | Layer 1 | Physical          |                                                  |
 
-Layer4-
+Determines protocol and data syntax rules at the application level.
 
-Layer3-
+Presents the data on the receiving end to the user application.
 
-Layer2-
-
-Layer1- 
+Examples of an application protocol:
+ 
 
 
 ### TCP
