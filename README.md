@@ -57,12 +57,15 @@ The intended result of network virtualization is improved network productivity a
 
 The Open systems interconnection model is an conceptual framework referencing relationships, demostrating how applications communicate over a network. OSI model's main concept is that the process of communication between two endpoints in a network can be divided into seven layers. In this architecture each layer serves the layer above it and, in turn, is served by the layer below it.
 
-
-Layer 7-
-
-Layer6-
-
-Layer5-
+|         |                   |                                                  |
+|---------|-------------------|--------------------------------------------------|
+| Layer 7 | Application Layer |                                                  |
+| Layer 6 | Presentation Layer|                                                  |
+| Layer 5 | Session Layer     |                                                  |
+| Layer 4 | Transport Layer   |                                                  |
+| Layer 3 | IP                |                                                  |
+| Layer 2 | Data Link         |                                                  |
+| Layer 1 | Physical          |                                                  |
 
 Layer4-
 
