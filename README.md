@@ -59,7 +59,11 @@ The Open systems interconnection model is an conceptual framework referencing re
 
 |         |                   |                                                  |
 |---------|-------------------|--------------------------------------------------|
-| Layer 7 | Application Layer |                                                  |
+| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes:                    
+•
+•
+•
+•                                                                                |
 | Layer 6 | Presentation Layer|                                                  |
 | Layer 5 | Session Layer     |                                                  |
 | Layer 4 | Transport Layer   |                                                  |
