@@ -59,7 +59,7 @@ The Open systems interconnection model is an conceptual framework referencing re
 
 |         |                   |                                                  |
 |---------|-------------------|--------------------------------------------------|
-| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers functionality includes; ensuring that there is an exisiting communication interface, that the recieving device is identified and can bereached to accept data.     |
+| Layer 7 | Application Layer | The applcation Layer is a medium for applications to access a network. The layers provides communication through the use of protocols, for instance the HTTP (hyper-text-transfer-protocol) a type of hyper text, which is used for all web based languages (HTML, Java,PHP, etc.) transferred across a network.  |
 | Layer 6 | Presentation Layer|                                                  |
 | Layer 5 | Session Layer     |                                                  |
 | Layer 4 | Transport Layer   |                                                  |
