@@ -95,7 +95,18 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 |                         |                           |
 |-------------------------|---------------------------|
 | OSI                     |                       TCP |
-|                         |                           |
+| OSI is a generic, protocol independent standard, acting as a communication gateway between the network and end user.| TCP/IP model is based on standard protocols around which the Internet has developed. It is a communication protocol, which allows connection of hosts over a network.|
+| The OSI models transport layer guarantees the delivery of packets. | In the TCP/IP model the transport layer does not guarantee the  delivery of packets. However it is generally seen as more reliable.  |
+
+|                          |                           |
+|                          |                           |
+|                          |                           |
+|                          |                           |
+|                          |                           |
+|                          |                           |
+
+
+
 
 
 benefits and constraints
