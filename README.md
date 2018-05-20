@@ -53,7 +53,10 @@ The intended result of network virtualization is improved network productivity a
 
 ### Two Conceptual Models
 
-
+|                         |                           |
+|-------------------------|---------------------------|
+| OSI                     |                       TCP |
+|                         |                           |
 
 
 benefits and constraints
