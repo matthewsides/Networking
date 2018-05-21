@@ -243,7 +243,10 @@ A printer was included in the network with the assumption that printing will be 
 
 ### Test
 
-The following tests encompasses
+The following tests were to ensure that the network functioned in accordance to the specifications and in a logical manner:
+
+
+
 
 
 ### Evalutation
