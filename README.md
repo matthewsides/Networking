@@ -175,7 +175,18 @@ This documentation details the design and implementation of a wide area network 
 
 This documentation is intended to be read by the network engineers, whom developed, set up or are currently mainting said network. Other intended readers include share holders in the prospective project.
 
+
+
+
+### Network Architecture
+
+The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each network connected 
+
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
 
 
+
+The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks. A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable.
+
+Requires more cable length than a linear topology. If the hub, switch, or concentrator fails, nodes attached are disabled. 
 
