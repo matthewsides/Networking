@@ -217,9 +217,11 @@ PCs IP:
 •192.168.10.102
 
 Server IP:
+
 •192.168.10.10
 
 Router IP:
+
 •192.168.10.1
 
 The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks. A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable.Copper wiring was used due the wire being cheaper to set up than fibre optic cabling and although copper is known to degenrate over long distances since the network is set up for a home enviroment the wires are not required to be long.
