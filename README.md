@@ -245,8 +245,7 @@ A printer was included in the network with the assumption that printing will be 
 
 The following tests were to ensure that the network functioned in accordance to the specifications and in a logical manner:
 
-
-
+![Alt text](https://github.com/matthewsides/Networking/blob/master/Test_Plan_IMG.png?raw=true "Optional Title")
 
 
 ### Evalutation
