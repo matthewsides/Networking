@@ -189,18 +189,25 @@ The networks layout utilises the star topology, leaving one central hub acting a
 Pre-Set Network Configurations-
 
 LAN-1
+
 PCs IP:
+
 • 192.168.1.100
+
 • 192.168.1.101
+
 • 192.168.1.102
 
 Server IP:
+
 •192.168.1.10
 
 Router IP:
+
 •192.168.1.1
 
 LAN-2
+
 PCs IP:
 
 •192.168.10.100
