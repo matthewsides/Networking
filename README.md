@@ -173,9 +173,7 @@ This documentation details the design and implementation of a wide area network 
 
 ### Scope 
 
-This documentation is intended to be read by the network engineers, whom developed, set up or are currently mainting said network. Other intended readers include share holders in the prospective project.
-
-
+This documentation is intended to be read by the network engineers, whom partook in the development, set up or currently tasked with the maintainence of this network. Other intended readers include share holders in the prospective project.
 
 
 ### Network Architecture
