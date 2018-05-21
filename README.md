@@ -111,12 +111,13 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 ### IEEE (802.3,.7,.8,.11) standards about physical cabling and transmission of data
 
-802.3 is a standard specification for Ethernet, a method of physical communication in a local area network (LAN), which is maintained by the Institute of Electrical and Electronics Engineers (IEEE). The 802.3 standard essentially specifies the physical media (cables) and the working characteristics of Ethernet.
+802.3 is a standard specification for Ethernet, a method of physical communication in a local area network (LAN), which is maintained by the Institute of Electrical and Electronics Engineers (IEEE). The 802.3 standard essentially specifies the physical media (cables) and the working characteristics of Ethernet. 
 
-IEEE 802.7 is a sub-standard of the IEEE 802 which covers broadband local area networks.
+802.7 is a sub-standard of the IEEE 802 which covers broadband local area networks pratices.it specifies the design, installation, and test parameters for a broadband cable medium.
 
+802.8 was established to assess impact of fiber optics and to recommend standards.
 
-
+802.11 is a set of media access control (MAC) and physical layer (PHY) specifications for implementing wireless local area network (WLAN) computer communication in different frequency bands.
 
 
 ### Routed Protocols (IPV4,IPV6)
