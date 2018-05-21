@@ -167,6 +167,15 @@ To communicate, the computers must have a common language, and they must follow 
 
 ## Network Design
 
+### Introduction
+
+This documentation details the design and implementation of a wide area network through the use of two local area star networks, configured to connect and communicate via routers. Further improvements are also noted for potentional future implementation.
+
+### Scope 
+
+This documentation is intended to be read by the network engineers, whom developed, set up or are currently mainting said network. Other intended readers include share holders in the prospective project.
+
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
 
-This document 
+
+
