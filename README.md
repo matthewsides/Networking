@@ -247,13 +247,13 @@ A printer was included in the network with the assumption that printing will be 
 Name: Joe
 Feedback:
 
-The design is simple, following the star topology format. With regards to sending and recieving the UI is 
+The design is simple, following the star topology format. The Network can send files to other computers fairly fluidly. However the printer does not seem to be configured (IP).
 
 
+Name: Luke
+Feedback:
 
-
-
-Name: 
+Both the networks are intuitive using the star topology, whilst a computer can ping other computers. The only downside and possible addition is the exclusion/inclusion of a firewall which adds an extra layer of security.
 
 
 
