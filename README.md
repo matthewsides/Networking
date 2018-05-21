@@ -277,6 +277,5 @@ The below diagram shows the implemetented version of the conceptual design cover
 
 ### Evalutation
 
-The network  factoring in on the feedback and upon review, though meets the requirements could have been improved as the use of the star topology required more cable length than a linear topology. In a small area, in this scenario a home, the wires could prove haphazardous. Whilst if the switch (concentrator/hub) fails, nodes attached are disabled.This means that the hardware is centralised and  depedant on the switch and unaccessable if the switch fails with no failsafe currently in place.
-
+The network  factoring in on the feedback and upon review, though meets the requirements could have been improved as the use of the star topology required more cable length than a linear topology. In a small area, in this scenario a home, the wires could prove haphazardous. Whilst if the switch (concentrator/hub) fails, nodes attached are disabled.This means that the hardware is centralised and  depedant on the switch and unaccessable if the switch fails with no failsafe currently in place. In addition with regards to expanding the network the use of copper wire could prove strenuous as copper is known to degenerate over long distances, thus if applied to a larger enviroment the network would either not work or fail to perform.
 
