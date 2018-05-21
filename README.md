@@ -167,4 +167,6 @@ To communicate, the computers must have a common language, and they must follow 
 
 ## Network Design
 
+![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
+
 This document 
