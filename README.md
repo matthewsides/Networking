@@ -205,6 +205,8 @@ Router IP: •192.168.10.1
 
 ### Justification Network Design 
 
+The network Architecture and functionality was influenced and had to conform to the set requirements given, however certain aspects were optional, whilst all the design can be justified based on the networks use.
+
 The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks for a home-esc enviroment, connected and capable of transmission between the networks (WAN). A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable as the systems and network is private.Copper wiring was used due the wire being cheaper to set up than fibre optic cabling and although copper is known to degenrate over long distances since the network is set up for a home-esc environment the wires are not required to be long.
 
 ### Evalutation
