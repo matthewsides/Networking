@@ -241,6 +241,11 @@ Copper wiring was used due the wire being cheaper to set up than fibre optic cab
 
 A printer was included in the network with the assumption that printing will be a common occurence or required. Whilst the inclusion of a server is to ensure that access is provided to data accumulated from the three connecting PC's and printer. The router, critical to the networks design is for cross network communication providing a gateway.
 
+### Test
+
+The following tests encompasses
+
+
 ### Evalutation
 
 Requires more cable length than a linear topology. If the hub, switch, or concentrator fails, nodes attached are disabled. 
