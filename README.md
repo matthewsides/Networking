@@ -113,6 +113,10 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 802.3 is a standard specification for Ethernet, a method of physical communication in a local area network (LAN), which is maintained by the Institute of Electrical and Electronics Engineers (IEEE). The 802.3 standard essentially specifies the physical media (cables) and the working characteristics of Ethernet.
 
+IEEE 802.7 is a sub-standard of the IEEE 802 which covers broadband local area networks.
+
+
+
 
 
 ### Routed Protocols (IPV4,IPV6)
