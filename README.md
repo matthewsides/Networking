@@ -180,13 +180,14 @@ This documentation is intended to be read by the network engineers, whom develop
 
 ### Network Architecture
 
-The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each network connected 
+The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each of the networks physical hardware is connected using standard copper wiring, 
+
 
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
 
 
 
-The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks. A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable.
+The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks. A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable.Copper wiring was used due the wire being cheaper to set up than fibre optic cabling and although copper is known to degenrate over long distances since the network is set up for a home enviroment the wires are not required to be long.
 
 Requires more cable length than a linear topology. If the hub, switch, or concentrator fails, nodes attached are disabled. 
 
