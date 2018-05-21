@@ -162,7 +162,12 @@ dns (domain name system) -  converts domain names to ip addressess and vice vers
 
 To communicate, the computers must have a common language, and they must follow rules so that both the client and the server know what to expect. The language and rules of communication are defined in a communications protocol. All client-server protocols operate in the application layer. The application layer protocol defines the basic patterns of the dialogue. To formalize the data exchange even further, the server may implement an application programming interface (API).[3] The API is an abstraction layer for accessing a service. By restricting communication to a specific content format, it facilitates parsing. By abstracting access, it facilitates cross-platform data exchange.
 
+## Operating Principles (Glossary)
 
+###
+
+•	Networking devices: hubs, routers; switches; multilayer switch, firewall, HIDS, repeaters; bridges; wireless devices; access point (wireless/wired), content filter, Load balancer, Modem, Packet shaper, VPN concentrator.
+•	Server types: Web, file, database, combination (e.g MS Small Business Servers), virtualisation and terminal services server
 
 
 ## Network Design
