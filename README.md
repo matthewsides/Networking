@@ -125,6 +125,12 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 ### Service And Network Applications
 
+
+
+
+
+
+
 https://searchnetworking.techtarget.com/definition/8023
 benefits and constraints
 
@@ -155,3 +161,10 @@ dns (domain name system) -  converts domain names to ip addressess and vice vers
 
 
 To communicate, the computers must have a common language, and they must follow rules so that both the client and the server know what to expect. The language and rules of communication are defined in a communications protocol. All client-server protocols operate in the application layer. The application layer protocol defines the basic patterns of the dialogue. To formalize the data exchange even further, the server may implement an application programming interface (API).[3] The API is an abstraction layer for accessing a service. By restricting communication to a specific content format, it facilitates parsing. By abstracting access, it facilitates cross-platform data exchange.
+
+
+
+
+## Network Design
+
+This document 
