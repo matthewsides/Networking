@@ -278,7 +278,7 @@ The following tests were to ensure that the network functioned in accordance to 
 
 The below diagram shows the implemetented version of the conceptual design covered above, along with notes pertaining to the configuration of each device.
 
-![Alt text](https://github.com/matthewsides/Networking/blob/master/WAN.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_WAN.png?raw=true "Optional Title")
 
 ### Evalutation
 
