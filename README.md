@@ -277,5 +277,6 @@ The below diagram shows the implemetented version of the conceptual design cover
 
 ### Evalutation
 
+
 Requires more cable length than a linear topology. If the hub, switch, or concentrator fails, nodes attached are disabled. 
 
