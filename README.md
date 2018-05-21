@@ -241,6 +241,13 @@ Copper wiring was used due the wire being cheaper to set up than fibre optic cab
 
 A printer was included in the network with the assumption that printing will be a common occurence or required. Whilst the inclusion of a server is to ensure that access is provided to data accumulated from the three connecting PC's and printer. The router, critical to the networks design is for cross network communication providing a gateway.
 
+
+### User Feedback
+
+
+
+
+
 ### Test
 
 The following tests were to ensure that the network functioned in accordance to the specifications and in a logical manner:
@@ -248,6 +255,13 @@ The following tests were to ensure that the network functioned in accordance to 
 [Test Plan](https://github.com/matthewsides/Networking/blob/master/Network_Test.xlsx?raw=true)
 
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Test_Plan_IMG.png?raw=true "Optional Title")
+
+
+### System Implemented
+
+The below diagram shows the implemetented version of the conceptual design covered above, along with notes pertaining to the configuration of each device.
+
+
 
 ### Evalutation
 
