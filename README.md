@@ -181,18 +181,27 @@ This documentation is intended to be read by the network engineers, whom partook
 Tasked with designing, testing, implementing and maintaining a wireless area network encompassing two local area networks, theses networks must incorparate:
 
  • A star topology format
+ 
  • 3 PC's 
+ 
  • 1 Server
+ 
  • 1 Printer
+ 
  • 1 Router
+ 
  • Wireless access (wireless router/access point choice optional)
+ 
  • Functional (Capable of pinging same/cross network, etc)
  
  ### User Stories
  
   •  As a user I would like to be able to ping to another computer on the same network (LAN).
+  
   •  As a user I would like to be able to ping cross network (LAN1-LAN2).
+  
   •  As a user I would like to be able to print.
+  
   •  As a user I would like to be able to ping a server (same/cross network).
  
 ### Network Architecture
