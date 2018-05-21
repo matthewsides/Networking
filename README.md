@@ -176,6 +176,25 @@ This documentation details the design and implementation of a wide area network 
 This documentation is intended to be read by the network engineers, whom partook in the development, set up or currently tasked with the maintainence of this network. Other intended readers include share holders in the prospective project.
 
 
+### Network Specification
+
+Tasked with designing, testing, implementing and maintaining a wireless area network encompassing two local area networks, theses networks must incorparate:
+
+ • A star topology format
+ • 3 PC's 
+ • 1 Server
+ • 1 Printer
+ • 1 Router
+ • Wireless access (wireless router/access point choice optional)
+ • Functional (Capable of pinging same/cross network, etc)
+ 
+ ### User Stories
+ 
+  •  As a user I would like to be able to ping to another computer on the same network (LAN).
+  •  As a user I would like to be able to ping cross network (LAN1-LAN2).
+  •  As a user I would like to be able to print.
+  •  As a user I would like to be able to ping a server (same/cross network).
+ 
 ### Network Architecture
 
 The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each of the networks physical hardware is connected using standard copper wiring and both local area networks are capable of cross network communication using a router as a gateway. Moreover each network includes an access point and is (a portal) capable of connecting wireless devices if necessary. Both networks are mirrored including one server and three PC's each, each set to be configured using a DCHP IP address taking from a pool with a pre-set range, exempt the server which will use a static IP.
