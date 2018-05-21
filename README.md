@@ -244,6 +244,16 @@ A printer was included in the network with the assumption that printing will be 
 
 ### User Feedback
 
+Name: Joe
+Feedback:
+
+The design is simple, following the star topology format. With regards to sending and recieving the UI is 
+
+
+
+
+
+Name: 
 
 
 
