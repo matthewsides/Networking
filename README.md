@@ -186,6 +186,31 @@ The networks layout utilises the star topology, leaving one central hub acting a
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
 
 
+Pre-Set Network Configurations-
+
+LAN-1
+PCs IP:
+• 192.168.1.100
+• 192.168.1.101
+• 192.168.1.102
+
+Server IP:
+•192.168.1.10
+
+Router IP:
+•192.168.1.1
+
+LAN-2
+PCs IP:
+•192.168.10.100
+•192.168.10.101
+•192.168.10.102
+
+Server IP:
+•192.168.10.10
+
+Router IP:
+•192.168.10.1
 
 The underlying reason behind using the star topology is due to its commonality in homes and offices. In this instance the network required two local area networks. A switch was applied rather than a hub due to the functional differences, a switch sends data only to the specified system on a LAN, whilst a hub would transmit copies to all the systems thus making it unsuitable.Copper wiring was used due the wire being cheaper to set up than fibre optic cabling and although copper is known to degenrate over long distances since the network is set up for a home enviroment the wires are not required to be long.
 
