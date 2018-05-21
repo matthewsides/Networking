@@ -180,7 +180,7 @@ This documentation is intended to be read by the network engineers, whom develop
 
 ### Network Architecture
 
-The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each of the networks physical hardware is connected using standard copper wiring, 
+The networks layout utilises the star topology, leaving one central hub acting as a conduit to transmit messages.Which in this instance is a switch.  Each of the networks physical hardware is connected using standard copper wiring and both local area networks are capable of cross network communication using a router as a gateway. Moreover each network includes an access point and is capable of connecting wireless devices if necessary. Both networks are mirrored including one server and three PC's each, each set to be configured using a DCHP IP address taking from a pool with a pre-set range, exempt the server which will use a static IP.
 
 
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/Network_Diagram.png?raw=true "Optional Title")
