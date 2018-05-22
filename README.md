@@ -51,7 +51,7 @@ Network virtualisation  is the process of combining hardware and software networ
 The intended result of network virtualization is improved network productivity and efficiency, as well as job satisfaction for the network administrator.
 
 
-### Two Conceptual Models
+## Two Conceptual Models
 
 There are two conceptual models applied, the reason for theses models is to ensure a general consensous as to how something should be done is formed between organisations. The models essentially give a visualisation to the proccess and standards that should be followed thus ensuring communciation and enabling organisations to agree on how to solve problems ensuring that the bigger picture is supported.
 
@@ -119,16 +119,28 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 ### Routed Protocols (IPV4,IPV6)
 
 Routed protocols are defined as a protocol in which data can be routed. The most notable protocols consist of IPv4 and IPv6. IPv4 is the fourth version of the Internet Protocol, used for data communication over different kinds of networks. Though IPv4 was recently replaced 
-by IPv6, this was due to the limitations regarding IPv4 as IPv4 uses 32-bit addresses and is limited to 4,294,967,296.
+by IPv6, this was due to the limitations regarding IPv4's pool as IPv4 uses 32-bit addresses and is limited to 4,294,967,296 addresses.
+
+
 
 
 
 
 address issues of IPv4 & IPv6, Global unicast, Multicast, Link local, Unique local, EUI 64 & Auto configuration
 
-### Service And Network Applications
+## Service And Network Applications
 
+### FTP
 
+The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between a client and server over the internet using a TCP/IP connection on a computer network.  
+
+### HTTP
+
+### SMTP
+
+### POP3
+
+### SSL
 
 
 
