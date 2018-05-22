@@ -122,6 +122,9 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 ### Routed Protocols (IPV4,IPV6)
 
+Routed protocols are defined as a protocol in which data can be routed. The most notable protocols consist of IPv4 and IPv6. IPv4 is the fourth version of the Internet Protocol, used for data communication over different kinds of networks. Though IPv4 was recently replaced 
+by IPv6, this was due to the limitations regarding IPv4 as IPv4 is limited to ___ addressess.
+address issues of IPv4 & IPv6, Global unicast, Multicast, Link local, Unique local, EUI 64 & Auto configuration
 
 ### Service And Network Applications
 
