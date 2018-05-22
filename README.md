@@ -73,10 +73,6 @@ The Open systems interconnection model is an conceptual framework referencing re
 | Layer 2 | Data Link         | The Data Link Layer sets up links across the physical network, transfering data between adjacent network nodes in a wide area network (WAN) or between nodes on the same local area network (LAN) segment (performs the most reliable node to node delivery of data).Data bits are encoded, decoded and organized in the data link layer.|
 | Layer 1 | Physical          | The physical layer is responsible for sending computer bits from one device to another along the network. The layer does not understand the bits, however is tasked with setting up physical connections over a network (node to node) and determining how the bits are represented. |
 
-
-
-
-
 ### TCP
 
 TCP model is a layered protocol similiar to the OSI model, however TCP  excludes 3 of the OSI layers, though the layers are equivalent in operation and function. The network access layer is equivalent to OSI layers 1 and 2. The Internet Protocol layer is comparable to layer 3 in the OSI model. The Transport layer is equivalent to OSI layer 4. These are the TCP and UDP (user datagram protocol) functions. Finally, the application layer is similar to OSI layers 5, 6, and 7 combined. 
@@ -123,7 +119,11 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 ### Routed Protocols (IPV4,IPV6)
 
 Routed protocols are defined as a protocol in which data can be routed. The most notable protocols consist of IPv4 and IPv6. IPv4 is the fourth version of the Internet Protocol, used for data communication over different kinds of networks. Though IPv4 was recently replaced 
-by IPv6, this was due to the limitations regarding IPv4 as IPv4 is limited to ___ addressess.
+by IPv6, this was due to the limitations regarding IPv4 as IPv4 uses 32-bit addresses and is limited to 4,294,967,296.
+
+
+
+
 address issues of IPv4 & IPv6, Global unicast, Multicast, Link local, Unique local, EUI 64 & Auto configuration
 
 ### Service And Network Applications
