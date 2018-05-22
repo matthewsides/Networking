@@ -132,7 +132,7 @@ address issues of IPv4 & IPv6, Global unicast, Multicast, Link local, Unique loc
 
 ### FTP
 
-The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between a client and server over the internet using a TCP/IP connection on a computer network.  
+The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between a client and server over the internet using a TCP/IP connection (on a computer network).   
 
 ### HTTP
 
