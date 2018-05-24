@@ -144,8 +144,12 @@ Simple mail trasfer Protocol is a standard protocol for sending emails accross t
 
 ### POP3
 
+In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by e-mail clients to store and retrieve e-mail from a server in an Internet Protocol (IP) network. POP3 is a subset of the Post Office Protocol being the third version used for the widespread method of receiving and filtering email.
 
 ### SSL
+
+
+The Secure Sockets Layer is a  security method used for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browser remains confidental and integral. This is commonly used for online commerce as payment methods include using cards for online transactions or profile credentials such as a password, as such information being leaked could cause numerous problems (identity theft, stolen property/money, etc.).
 
 
 
