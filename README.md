@@ -254,11 +254,19 @@ A VPN concentrator is a type of networking device that provides secure creation 
 
 #### Web
 
+A web server distributes content to a user through the internet as it is requisitioned. The content is recieved via the user sending a request to the web server through using HTTP, which then  retrieves the relevant information or HTML page sending it to the web browser or an error message if unable to do so.The web server runs using the HTTP protocol (and seven other protocols) to processes incoming network requests.
+
 #### file
+
+A file server is a computer responsible for the central storage and management of data files so that other computers on the same network can access the files. A file server allows users to share information over a network without having to physically transfer files by  external storage devices.
 
 #### database
 
+A database server is a computer program that provides database services to other computer programs or to computers, allowing the retieval and access of files stored on a database. Access to the server can be done through either front or back end, running through the server or a local node. Once the information is retrieved it is outputted to the user requesting the data.
+
 #### combination (e.g MS Small Business Servers)
+
+A combination server is a server that incorporates functions of multiple types of servers (database,web,file,etc) and is capable of achieving what those servers can do, providing all the services but as a singular server. 
 
 #### virtualisation and terminal services server
 
