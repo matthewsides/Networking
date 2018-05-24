@@ -264,12 +264,18 @@ A file server is a computer responsible for the central storage and management o
 
 A database server is a computer program that provides database services to other computer programs or to computers, allowing the retieval and access of files stored on a database. Access to the server can be done through either front or back end, running through the server or a local node. Once the information is retrieved it is outputted to the user requesting the data.
 
-#### combination (e.g MS Small Business Servers)
+#### combination 
 
 A combination server is a server that incorporates functions of multiple types of servers (database,web,file,etc) and is capable of achieving what those servers can do, providing all the services but as a singular server. 
 
-#### virtualisation and terminal services server
+#### virtualisation 
 
+Virtualisation involves partitioning a physical server into a number of small, virtual servers (a server that shares hardware and software resources with other operating systems) with the help of virtualization software. In server virtualization, each virtual server runs multiple operating system instances at the same time.
+
+
+#### terminal services server
+
+A terminal server is a server or network device that enables connections to multiple client systems to connect to a LAN network without using a modem or a network interface, as long as the system has a port. Terminal servers can be used to take control of a remote computer or virtual machine over a network connection.
 
 ## Network Design
 
