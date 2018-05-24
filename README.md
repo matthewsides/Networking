@@ -192,13 +192,20 @@ To communicate, the computers must have a common language, and they must follow 
 
 #### hubs
 
+A hardware device that contains multiple independent but connected modules of network and internetwork equipment. Hubs can be active (where they repeat signals sent through them) or passive (where they do not repeat but merely split signals sent through them).
+
 #### routers
 
 A device that routes information between interconnected networks. The router determines the best path to route a message,translating information from one network to another. The majority of now contain firewalls. Home routers can contain firewall, router, switching (for cabled connections), and a wireless access point.
 
 #### switches
 
+A switch is an "intelligent" type of hub, in that it sends packets only to the intended ports, rather than all computers on the network. The switch recieves data packets and re-routes them to there intended destination, using only the traffic requested thus eliminating the possibility of collision.
+
 #### multilayer switch
+
+A multilayer switch is a network device with the same capabilties of a switch but with the additional functionality and features of a router. The multilayer switch  can perform at incredibly fast speeds in comparision to a switch.
+
 
 #### Firewall
 
@@ -206,6 +213,7 @@ A security device which inspects traffic entering and leaving a network, and all
 
 #### HIDS
 
+A host-based intrusion detection system (HIDS) is an intrusion detection system that is capable of monitoring and analyzing the internals of a computing system as well as network packets to ensure any malicious data is prevented from entering the network via the internet.
 
 
 #### repeaters
