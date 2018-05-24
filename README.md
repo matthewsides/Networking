@@ -136,7 +136,7 @@ The File Transfer Protocol (FTP) is a standard network protocol used for the tra
 
 ### HTTP
 
- Hypertext Transfer Protocol (HTTP) 
+ Hypertext Transfer Protocol (HTTP) is an application protocol used by the World wide web as the foundation of data communciation. The foundation of data communication relating to HTTP being the standards or rules set when transferring files on the World Wide Web. Hyper transfer Protocol helps format and connect user's to webpages
 
 ### SMTP
 
