@@ -194,19 +194,30 @@ To communicate, the computers must have a common language, and they must follow 
 
 #### routers
 
+A device that routes information between interconnected networks. The router determines the best path to route a message,translating information from one network to another. The majority of now contain firewalls. Home routers can contain firewall, router, switching (for cabled connections), and a wireless access point.
+
 #### switches
 
 #### multilayer switch
 
 #### Firewall
 
+A security device which inspects traffic entering and leaving a network, and allows or disallows the traffic, depending on the  rules set regarding the use of the network, by filtering out unwanted packets. The firewall is usually positioned as the gateway device to another network, such as the internet (behind the router).
+
 #### HIDS
+
+
 
 #### repeaters
 
+A device used in a network to strengthen a signal as it is passed along the network cable. The use of a repeater can extend a LAN beyond its limits.
+
 #### Bridges
 
+The Bridge is a Device that connects and passess packets between two network segments that use the same communications protocol.
+
 #### Wireless devices
+
 
 #### Access point (wireless/wired)
 
@@ -216,7 +227,10 @@ To communicate, the computers must have a common language, and they must follow 
 
 #### Modem 
 
+The Modem is a Device for transmission that converts digital and analog signals. Modems allow computer data (digital) to be transmitted over voice-grade telephone lines (analog).
+
 #### Packet shaper
+
 
 #### VPN concentrator
 
