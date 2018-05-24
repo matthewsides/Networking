@@ -188,10 +188,50 @@ To communicate, the computers must have a common language, and they must follow 
 
 ## Operating Principles (Glossary)
 
-###
+### Networking devices
 
-•	Networking devices: hubs, routers; switches; multilayer switch, firewall, HIDS, repeaters; bridges; wireless devices; access point (wireless/wired), content filter, Load balancer, Modem, Packet shaper, VPN concentrator.
-•	Server types: Web, file, database, combination (e.g MS Small Business Servers), virtualisation and terminal services server
+#### hubs
+
+#### routers
+
+#### switches
+
+#### multilayer switch
+
+#### Firewall
+
+#### HIDS
+
+#### repeaters
+
+#### Bridges
+
+#### Wireless devices
+
+#### Access point (wireless/wired)
+
+#### Content filter
+
+#### Load balancer
+
+#### Modem 
+
+#### Packet shaper
+
+#### VPN concentrator
+
+
+### Server types
+
+#### Web
+
+#### file
+
+#### database
+
+#### combination (e.g MS Small Business Servers)
+
+#### virtualisation and terminal services server
 
 
 ## Network Design
