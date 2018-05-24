@@ -206,7 +206,6 @@ A switch is an "intelligent" type of hub, in that it sends packets only to the i
 
 A multilayer switch is a network device with the same capabilties of a switch but with the additional functionality and features of a router. The multilayer switch  can perform at incredibly fast speeds in comparision to a switch.
 
-
 #### Firewall
 
 A security device which inspects traffic entering and leaving a network, and allows or disallows the traffic, depending on the  rules set regarding the use of the network, by filtering out unwanted packets. The firewall is usually positioned as the gateway device to another network, such as the internet (behind the router).
@@ -214,7 +213,6 @@ A security device which inspects traffic entering and leaving a network, and all
 #### HIDS
 
 A host-based intrusion detection system (HIDS) is an intrusion detection system that is capable of monitoring and analyzing the internals of a computing system as well as network packets to ensure any malicious data is prevented from entering the network via the internet.
-
 
 #### repeaters
 
@@ -226,12 +224,19 @@ The Bridge is a Device that connects and passess packets between two network seg
 
 #### Wireless devices
 
+A wireless device is a device that requires no wiring to connect to a network, opting to use signals to connect to the internet. Whilst wireless devices can also relate to the extensions or peripheral hardware in a network used to connect devices to the internet or network like an access point or wireless router.
 
 #### Access point (wireless/wired)
 
+A wireless access point is an extension for the router (can be stand alone or intergrated into the router) usually used to cover dead spots in wifi, areas where the wifi could not reach. An access point essentially acts as a gateway for wireless devices to connect to a network providing connectivity and wifi coverage (extending the range).
+
 #### Content filter
 
+A Content Filter is software that helps decide which content is acceptable for viewing and access through a given system. Filtering any data that is considered spam or harmful, used for security purposes to lower the possibility of malware being contracted from malicious sites.
+
 #### Load balancer
+
+A load balancer essentially imporves the distribution of work loads, efficiently distributing incoming network traffic across a group of backend servers. Load balancing improves; reliability, responsiveness and increases availability of applications.
 
 #### Modem 
 
@@ -239,9 +244,11 @@ The Modem is a Device for transmission that converts digital and analog signals.
 
 #### Packet shaper
 
+The packet shaper is a device that sits in between the internal network and external network. All incoming and outgoing traffic passes through it. Its purpose is to classify the traffic passing through, and prioritize that traffic based on pre-set rules defined.
 
 #### VPN concentrator
 
+A VPN concentrator is a type of networking device that provides secure creation of VPN connections and delivery of messages between VPN nodes. It is a type of router device, built specifically for creating and managing VPN communication infrastructures. 
 
 ### Server types
 
