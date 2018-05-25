@@ -128,6 +128,23 @@ by IPv6, this was due to the limitations regarding IPv4's pool as IPv4 uses 32-b
 
 address issues of IPv4 & IPv6, Global unicast, Multicast, Link local, Unique local, EUI 64 & Auto configuration
 
+## Impact of Topologies and differences
+
+### Logical Topologys
+
+A logical topology is a concept regarding the arrangement of devices on a computer network and how they communicate with one another (protocols).Through utilising network equipment (routers, switches, etc.) the logical topology of a network can be dynamically maintained and reconfigured. 
+
+ Types of logical Topologies: 
+
+ • Ring: The ring topology is a logical network in which each node connects to two other nodes  forming a single continuous pathway for signals through each node . In the ring topology  only one node is allowed to transfer the data in a network at a given time. This mechanism is achieved by token (the node having token only can transmit the data in a network) and hence the collision can be avoided in a network.
+
+
+### Physical 
+
+
+Research, explain the difference and review the following topologies: logical (e.g. Ethernet, Token Ring) and physical (star, ring, bus, mesh, tree and ring).  
+
+
 ## Service And Network Applications
 
 ### FTP
