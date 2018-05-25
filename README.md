@@ -286,8 +286,9 @@ A terminal server is a server or network device that enables connections to mult
 
 Software essentially controls the hardware.These two components are complementary and cannot act independently of one another. In order for a node/device to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, the hardware would be useless. Conversely, software cannot be used without supporting hardware.For example Server software is a type of software that is designed to be used, operated and managed on a computing server.Server software is integral when interacting with a server’s hardware infrastructure (processor, memory, storage, input/output (I/O), etc.), utilising the server for different functions and services, though primary using inherent computer capacity and resources to complete tasks.
 
+A server operating system (OS) is a type of operating system that is designed to be installed and used on a server computer. The server operating system optimises the server computer to run as efficently as possible as multiple user's may access and request something at a given time. It is an advanced version of an operating system having features and capabilities required within a client-server architecture.
 
-
+The Client Operating System is a system that works within computer systems and various portable devices. This system is different from centralized servers (server operating system) because it only supports a single user and does not require stretching resources to meet multiple requests.
 
 In this section “Workstation Hardware”, explain and discuss the “interdependence” of hardware with the relevant networking software
 Include elements: 
