@@ -192,43 +192,7 @@ In computing, the Post Office Protocol (POP) is an application-layer Internet st
 
 ### SSL
 
-
 The Secure Sockets Layer is a  security method used for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browser remains confidental and integral. This is commonly used for online commerce as payment methods include using cards for online transactions or profile credentials such as a password, as such information being leaked could cause numerous problems (identity theft, stolen property/money, etc.).
-
-
-
-
-
-https://searchnetworking.techtarget.com/definition/8023
-benefits and constraints
-
-talk about osi and tcp and the point of the conceptual models (gives us visualisation, can agree it and share the same information having a common understanding / a way of companys and manufacturers agreeing how it should be done creating standards ensuring they can communicate ways to agree how to solve problems ensuring things support the big picture)
-
-2 conceptual models osi and tcp  (tcp model is a less layered version osi)
-
-tcp protocol is not the same as the model
-
-comparision between two 
-
-tcp sits in the osi model 
-
-
-conceptual models, osi models, tct model (using a table)
-
-osi application layer talking about system /  networking applications (transferring information etc.)
-
-IEEE (802.3, etc.) standards about physical cabling and transmission of data
-
-mesh topology 
-
-protocols ipv4 (ipv6) ipv4 run out of ip addressess have tech to minimize the number of addressess used /  classic internet protocol
-your address on the internet (private addressess not viable in the internet / public avaliable on the internet)
-
-
-dns (domain name system) -  converts domain names to ip addressess and vice versa (ip addressess to domain names) ask parent dns if dont know (6-7 route dns systems in the world) information constantly updated
-
-
-To communicate, the computers must have a common language, and they must follow rules so that both the client and the server know what to expect. The language and rules of communication are defined in a communications protocol. All client-server protocols operate in the application layer. The application layer protocol defines the basic patterns of the dialogue. To formalize the data exchange even further, the server may implement an application programming interface (API).[3] The API is an abstraction layer for accessing a service. By restricting communication to a specific content format, it facilitates parsing. By abstracting access, it facilitates cross-platform data exchange.
 
 ## Operating Principles (Glossary)
 
