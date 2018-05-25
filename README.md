@@ -148,20 +148,24 @@ A physical topology refers to the arrangement or layout of computers, cables, an
 
 Types of Physical Topologies: 
 
- •
- •
- •
- •
- •
- •
+ • Star:  Network topology is the topological structure of a network and may be depicted physically or logically. A star network consists of one central hub (switch, router, hub,etc.) which acts as a conduit to transmit messages. In the star topology, every host (node) is connected to a central hub.
  
- The topologies are essentially different ways of illustrating network archtecture 
+ • Mesh: A mesh network is an cooperative network topology where nodes connect directly , dynamically and non-hierarchically to as many other nodes as possible to efficently route data to and from clients. 
  
-The underlying difference between a logical topology and a physical topology is that a physical topology is how the wires are interconnected, whilst a Logical topology is how the network behaves and inter-operates. Logical typologies tend to focus on traffic flows, routing domains, router peering, control points, IP addressing schemes, network segmentation, administrative domains, etc. Whilst Physical tend to focus on port names, port counts, what cables connect to where, what specific models are used, etc.
+ • Ring: The ring topology is a network in which a node connects to two other nodes thus forming a circular and singular continous pathway for signals to pass through each node.  In the ring topology  only one node is allowed to transfer the data in a network at a given time. This mechanism is achieved by token (the node having token only can transmit the data in a network) and hence the collision can be avoided in a network.
+ 
+ • Bus: A bus network is an network arrangement in which each node (workstation or other device) is connected to a main cable or link called the bus, with terminators on each end/side of the bus that absorbs signals ensuring that they do not reflect back down the line. 
+ 
+ • Tree: A tree network, is a hybrid network topology in which star networks are interconnected via bus networks (the star networks are the branches of a bus network).
+ 
+The underlying difference between a logical topology and a physical topology is that a physical topology is how the wires are interconnected, whilst a Logical topology is how the network behaves and inter-operates. Logical typologies tend to focus on traffic flows, routing domains, router peering, control points, IP addressing schemes, network segmentation, administrative domains, etc. Whilst Physical tend to focus on port names, port counts, what cables connect to where, what specific models are used, etc. Essentially the topologys are different ways of illustrating network architecture.
+
+
+### Communication
 
 
 
-Research, explain the difference and review the following topologies: logical (e.g. Ethernet, Token Ring) and physical (star, ring, bus, mesh, tree and ring).  
+
 
 
 ## Service And Network Applications
