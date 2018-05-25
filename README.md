@@ -168,6 +168,11 @@ The underlying difference between a logical topology and a physical topology is 
 
 Data communications refers to the transmission of data between two or more nodes over a computer network.
 
+In a network model for instance OSI or TCP/IP the communication of data between nodes occurs through layers. Theses layer each decide most appriote protocol to use (application layer), quickest pathway (network layer) , format and compression (presentation or transport depending on the model applied), setting up communciation between hosts (session layer).
+
+
+
+
 Discuss what communication is and how it relates to the suitability of devices, suited to users, supportive of lifestyle desires, supportive of commercial requirements, security requirements, quality of service needs and the effect that bandwidth 
 
 
