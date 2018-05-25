@@ -138,10 +138,27 @@ A logical topology is a concept regarding the arrangement of devices on a comput
 
  • Ring: The ring topology is a logical network in which each node connects to two other nodes  forming a single continuous pathway for signals through each node . In the ring topology  only one node is allowed to transfer the data in a network at a given time. This mechanism is achieved by token (the node having token only can transmit the data in a network) and hence the collision can be avoided in a network.
 
- • Ethernet:
+ • Bus: Ethernet uses the logical bus topology to transfer data. Through  a bus topology a node broadcasts the data to the entire network. All other nodes on the network recieve the data and check if the data is intended for them.
  
  
 ### Physical 
+
+A physical topology refers to the arrangement or layout of computers, cables, and other components on a network (LAN). The use of a physical topology allows for the organisation of a network, through physically laying it out in relation to the enviroment (office,home,etc.) and requires prior planning.
+
+
+Types of Physical Topologies: 
+
+ •
+ •
+ •
+ •
+ •
+ •
+ 
+ The topologies are essentially different ways of illustrating network archtecture 
+ 
+The underlying difference between a logical topology and a physical topology is that a physical topology is how the wires are interconnected, whilst a Logical topology is how the network behaves and inter-operates. Logical typologies tend to focus on traffic flows, routing domains, router peering, control points, IP addressing schemes, network segmentation, administrative domains, etc. Whilst Physical tend to focus on port names, port counts, what cables connect to where, what specific models are used, etc.
+
 
 
 Research, explain the difference and review the following topologies: logical (e.g. Ethernet, Token Ring) and physical (star, ring, bus, mesh, tree and ring).  
