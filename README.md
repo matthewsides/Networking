@@ -166,7 +166,7 @@ The underlying difference between a logical topology and a physical topology is 
 
 ### Communication
 
-Data communications refers to the transmission of this data between two or more nodes over a computer network.
+Data communications refers to the transmission of data between two or more nodes over a computer network.
 
 Discuss what communication is and how it relates to the suitability of devices, suited to users, supportive of lifestyle desires, supportive of commercial requirements, security requirements, quality of service needs and the effect that bandwidth 
 
