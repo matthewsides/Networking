@@ -284,7 +284,8 @@ A terminal server is a server or network device that enables connections to mult
 
 #### Interdepence of hardware with relevant networking software
 
-Software essentially controls the hardware.These two components are complementary and cannot act independently of one another. In order for a node/device to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, the hardware would be useless. Conversely, software cannot be used without supporting hardware. For example Server software is a type of software that is designed to be used, operated and managed on a computing server.Server software is integral when interacting with a server’s hardware infrastructure (processor, memory, storage, input/output (I/O), etc.), utilising the server for different functions and services, though primary using inherent computer capacity and resources to complete tasks.
+Software essentially controls the hardware.These two components are complementary and cannot act independently of one another. In order for a node/device to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, the hardware would be useless. Conversely, software cannot be used without supporting hardware.For example Server software is a type of software that is designed to be used, operated and managed on a computing server.Server software is integral when interacting with a server’s hardware infrastructure (processor, memory, storage, input/output (I/O), etc.), utilising the server for different functions and services, though primary using inherent computer capacity and resources to complete tasks.
+
 
 
 
