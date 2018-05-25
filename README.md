@@ -170,7 +170,7 @@ Data communications refers to the transmission of data between two or more nodes
 
 In a networking model for instance OSI or TCP/IP the communication of data between nodes occurs through layers. Theses layer each decide most appropriate protocol to use (application layer), quickest pathway (network layer) , format and compression (presentation or transport depending on the model applied), setting up communciation between hosts (session layer). The application of theses layers aid the communication of data through monitoring the data transfer, communicating with the host, ensuring that data is successfully retrieved.
 
-
+Important considerations in data communication is how fast data is sent and recieved, in bit per second, over a channel. Bandwidth is one of three factors data rate is dependent upon. Though transmission channels usually have limited frequency bandwidth.These limitations arise from the physical properties of the channel or from deliberate limitations on the bandwidth to prevent interference from other sources. Systems typically attempt to maximise the amount of data that can be sent on a channel, primarily for economic reasons.
 
 ## Service And Network Applications
 
