@@ -50,11 +50,9 @@ Network virtualisation  is the process of combining hardware and software networ
 
 The intended result of network virtualization is improved network productivity and efficiency, as well as job satisfaction for the network administrator.
 
-
 ## Two Conceptual Models
 
 There are two conceptual models applied, the reason for theses models is to ensure a general consensous as to how something should be done is formed between organisations. The models essentially give a visualisation to the proccess and standards that should be followed thus ensuring communciation and enabling organisations to agree on how to solve problems ensuring that the bigger picture is supported.
-
 
 ![Alt text](https://github.com/matthewsides/Networking/blob/master/TCP_OSI_Models.png?raw=true "Optional Title")
 
@@ -145,7 +143,6 @@ A logical topology is a concept regarding the arrangement of devices on a comput
 
 A physical topology refers to the arrangement or layout of computers, cables, and other components on a network (LAN). The use of a physical topology allows for the organisation of a network, through physically laying it out in relation to the enviroment (office,home,etc.) and requires prior planning.
 
-
 Types of Physical Topologies: 
 
  • Star:  Network topology is the topological structure of a network and may be depicted physically or logically. A star network consists of one central hub (switch, router, hub,etc.) which acts as a conduit to transmit messages. In the star topology, every host (node) is connected to a central hub.
@@ -158,11 +155,9 @@ Types of Physical Topologies:
  
  • Tree: A tree network, is a hybrid network topology in which star networks are interconnected via bus networks (the star networks are the branches of a bus network).
  
- 
 ### Physical and Logical Difference
 
 The underlying difference between a logical topology and a physical topology is that a physical topology is how the wires are interconnected, whilst a Logical topology is how the network behaves and inter-operates. Logical typologies tend to focus on traffic flows, routing domains, router peering, control points, IP addressing schemes, network segmentation, administrative domains, etc. Whilst Physical tend to focus on port names, port counts, what cables connect to where, what specific models are used, etc. Essentially the topologys are different ways of illustrating network architecture.
-
 
 ### Communication
 
@@ -289,7 +284,7 @@ A terminal server is a server or network device that enables connections to mult
 
 #### Interdepence of hardware with relevant networking software
 
-Computer software essentially controls computer hardware.These two components are complementary and cannot act independently of one another. In order for a computer to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, computer hardware is useless. Conversely, computer software cannot be used without supporting hardware. Similarly, computer software has to first be loaded into the computer’s hardware and then executed.
+Software essentially controls the hardware.These two components are complementary and cannot act independently of one another. In order for a node/device to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, the hardware would be useless. Conversely, software cannot be used without supporting hardware. For example 
 
 
 
