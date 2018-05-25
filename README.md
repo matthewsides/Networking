@@ -287,6 +287,13 @@ A terminal server is a server or network device that enables connections to mult
 
 ### Work Station Hardware
 
+In this section “Workstation Hardware”, explain and discuss the “interdependence” of hardware with the relevant networking software
+Include elements: 
+(client software, server software, client operating system, server operating system, firewall and proxies)
+Then explain the differences between network card, wireless, mobile and the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
+Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
+Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
+
 
 ## Network Design
 
