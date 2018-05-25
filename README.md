@@ -166,15 +166,9 @@ The underlying difference between a logical topology and a physical topology is 
 
 ### Communication
 
-Data communications refers to the transmission of data between two or more nodes over a computer network.
+Data communications refers to the transmission of data between two or more nodes over a computer network.The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet. A common proccess regarding data communication and transmissions can be seen through a user requesting information from a server, the router re-directing to the server with the server retrieving the file requested and sending the data back.
 
-In a network model for instance OSI or TCP/IP the communication of data between nodes occurs through layers. Theses layer each decide most appriote protocol to use (application layer), quickest pathway (network layer) , format and compression (presentation or transport depending on the model applied), setting up communciation between hosts (session layer).
-
-
-
-
-Discuss what communication is and how it relates to the suitability of devices, suited to users, supportive of lifestyle desires, supportive of commercial requirements, security requirements, quality of service needs and the effect that bandwidth 
-
+In a networking model for instance OSI or TCP/IP the communication of data between nodes occurs through layers. Theses layer each decide most appropriate protocol to use (application layer), quickest pathway (network layer) , format and compression (presentation or transport depending on the model applied), setting up communciation between hosts (session layer). The application of theses layers aid the communication of data through monitoring the data transfer, communicating with the host, ensuring that data is successfully retrieved.
 
 
 
