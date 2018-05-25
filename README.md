@@ -285,6 +285,9 @@ Virtualisation involves partitioning a physical server into a number of small, v
 
 A terminal server is a server or network device that enables connections to multiple client systems to connect to a LAN network without using a modem or a network interface, as long as the system has a port. Terminal servers can be used to take control of a remote computer or virtual machine over a network connection.
 
+### Work Station Hardware
+
+
 ## Network Design
 
 ### Introduction
