@@ -287,6 +287,12 @@ A terminal server is a server or network device that enables connections to mult
 
 ### Work Station Hardware
 
+#### Interdepence of hardware with relevant networking software
+
+Computer software essentially controls computer hardware.These two components are complementary and cannot act independently of one another. In order for a computer to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, computer hardware is useless. Conversely, computer software cannot be used without supporting hardware. Similarly, computer software has to first be loaded into the computer’s hardware and then executed.
+
+
+
 In this section “Workstation Hardware”, explain and discuss the “interdependence” of hardware with the relevant networking software
 Include elements: 
 (client software, server software, client operating system, server operating system, firewall and proxies)
