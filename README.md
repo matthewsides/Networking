@@ -158,6 +158,9 @@ Types of Physical Topologies:
  
  • Tree: A tree network, is a hybrid network topology in which star networks are interconnected via bus networks (the star networks are the branches of a bus network).
  
+ 
+### Physical and Logical Difference
+
 The underlying difference between a logical topology and a physical topology is that a physical topology is how the wires are interconnected, whilst a Logical topology is how the network behaves and inter-operates. Logical typologies tend to focus on traffic flows, routing domains, router peering, control points, IP addressing schemes, network segmentation, administrative domains, etc. Whilst Physical tend to focus on port names, port counts, what cables connect to where, what specific models are used, etc. Essentially the topologys are different ways of illustrating network architecture.
 
 
