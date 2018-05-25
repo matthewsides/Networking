@@ -138,7 +138,9 @@ A logical topology is a concept regarding the arrangement of devices on a comput
 
  • Ring: The ring topology is a logical network in which each node connects to two other nodes  forming a single continuous pathway for signals through each node . In the ring topology  only one node is allowed to transfer the data in a network at a given time. This mechanism is achieved by token (the node having token only can transmit the data in a network) and hence the collision can be avoided in a network.
 
-
+ • Ethernet:
+ 
+ 
 ### Physical 
 
 
