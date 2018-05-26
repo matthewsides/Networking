@@ -294,7 +294,7 @@ A firewall is a network security device that monitors incoming and outgoing netw
 
 Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.  A proxy server may reside on the user's local computer, or at various points between the user's computer and destination servers on the Internet. The proxy server provides increased performance and security.
 
-#### Network and cabling comparision
+#### Network comparision
 
 A Network Interface Card , these cards connect directly into the motherboard of a computer, featuring an external network socket. This enables the computer to connect to a network via a network cable. Network cards let a computer exchange data with the network, using suitable protocols to achieve connection (for example CSMA/CD).
 
@@ -304,6 +304,9 @@ A mobile network is a communication network where the last link is wireless. The
 
 The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus achieving the same outcome with different methods or techniques. Whilst with regards to the cellular (mobile) and wireless network, both use a wireless form, though radio waves are used within the wireless network, whilst  cellular requires a dedicated control channel for transmitting digital information. 
 
+#### Cable comparision
+
+Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. 
 
 
 the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
