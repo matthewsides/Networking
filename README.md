@@ -308,14 +308,13 @@ The underlying differences between a network card, wireless and mobile is essent
 
 Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. It is used for connecting multiple electronic devices and to better layout the physical hardware (cables) in the applied enviroment. A structured cabling system also provides an environment for data transfers that integrates telecoms networks, local or networked computer systems, video surveillance, and security. 
 
-
 Networking cables are networking hardware used to connect one network device to other network devices, these cables are usually differ based on the application having different ports and cable types. Examples of common types of cabling are listed below:
 
 A patch cable is an  electronic or optical cable used to connect (patch in)  devices to eachother for signal routing. Patch cords are relatively short hence why this type of cabling is used primarily for building home computer networks. The Patch cord cable differs from standard structured cabling cable in that the patch cable is stranded for flexibility, whereas standard cable is solid copper. Because the patch cord uses stranded copper the probability of signal loss is higher on patch cords than solid cables so short lengths should be adhered to.
 
 A shielded cable is an electrical cable of one or more insulated conductors enclosed by a common conductive layer, either being copper or aluminium. Shielding prevents crosstalk between cables near each other,reducing electrical noise and the impact on signals. Shield cabling is generally used in an enviroment where noise is constant as the noise/signals can interfere with  data traffic on a network and prevent computers from “hearing” important data. This data is lost and computers have to re-send it a second time, as this proccess is repeated by numerous systems the network slows down. 
 
-the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
+Twisted Pair cable  is a copper wire, where the wiring entails two conductors of a single circuit are twisted together for the purposes of improving electromagnetic compatibility, and preventing cross talk between signals and interference (STP). This type of cable is widely used in different kinds of data and voice infrastructures.There are Two different types of twisted pair cable, unshielded twisted pair (UTP) and shielded twisted pair (STP), used in different kinds of installations. UTP is common in Ethernet installations, while STP is used in various kinds of networks to prevent crosstalk and electromagnetic interference. 
 
 #### Permissions
 
