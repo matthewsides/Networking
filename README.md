@@ -317,8 +317,12 @@ Twisted Pair cable  is a copper wire, where the wiring entails two conductors of
 
 ### Permissions
 
+Permissions are access details defined by a network administrator, regarding the level of control a user may have over a certian file. Permissions are necessary to administer confidentality and ensure security, as certain information that relates to a person or a company secret handled by an organisation could be compromised leading to defamination or misuse (improper use).
 
-Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
+Share permissions are permissions are set for a folder when a folder is shared. The share permissions determine the type of access others have to the shared folder across the network. There are three types of share permissions: Full Control, Change (ability to edit the folder), and Read (only able to read the information displayed).
+
+NTFS permissions essentially determine the action users can take for a folder or file both across the network and locally. Though incomparision to share permissions, NTFS permissions incorparate an additional  seven permissions besides Full Control, Change, and Read that can be set for groups or individually. The most restrictive permission applies when share and NTFS permissions conflict.
+
 
 
 ### Local Workstation Architecture
