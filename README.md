@@ -320,14 +320,20 @@ Twisted Pair cable  is a copper wire, where the wiring entails two conductors of
 
 
 Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
-Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
+
 
 #### Local Workstation Architecture
 
+Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
 
 
+The system bus is a pathway composed of cables and connectors used to carry data between a computer microprocessor and the main memory. 
 
+ • Data: Data is digital pieces of information with a purpose, transferred between peripherals, memory and the processor.
+ 
+ • Address: The address defines the data's location and pathway during a particular operation.
 
+ • Control: The control refers and handles the management of operations of motherboard components, allocating instructions and overseeing the flow of address and data information. This includes the direction for transfering information and how data needs to be routed through the computer system.
 
 
 ## Network Design
