@@ -323,6 +323,7 @@ Review the need for permissions (explain the difference between local permission
 
 ### Local Workstation Architecture
 
+
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
 
 #### System Bus 
