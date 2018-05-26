@@ -306,7 +306,7 @@ The underlying differences between a network card, wireless and mobile is essent
 
 #### Cable comparision
 
-Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. 
+Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. It is used for connecting multiple electronic devices and to better layout the physical hardware (cables) in the applied enviroment. A structured cabling system also provides an environment for data transfers that integrates telecoms networks, local or networked computer systems, video surveillance, and security. 
 
 
 the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
