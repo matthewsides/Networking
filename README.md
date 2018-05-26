@@ -290,6 +290,9 @@ A server operating system (OS) is a type of operating system that is designed to
 
 The Client Operating System is a system that works within computer systems and various portable devices. This system is different from centralized servers (server operating system) because it only supports a single user and does not require stretching resources to meet multiple requests.
 
+A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. The firewall is typically based on the  host or network. A host based firewall is used to monitor ingoing and outgoing signals. A network-based firewall can be built into the cloud's infrastructure, or can be a virtual firewall service.
+
+
 In this section “Workstation Hardware”, explain and discuss the “interdependence” of hardware with the relevant networking software
 Include elements: 
 (client software, server software, client operating system, server operating system, firewall and proxies)
