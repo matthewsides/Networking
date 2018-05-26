@@ -275,14 +275,13 @@ A combination server is a server that incorporates functions of multiple types o
 
 Virtualisation involves partitioning a physical server into a number of small, virtual servers (a server that shares hardware and software resources with other operating systems) with the help of virtualization software. In server virtualization, each virtual server runs multiple operating system instances at the same time.
 
-
 #### terminal services server
 
 A terminal server is a server or network device that enables connections to multiple client systems to connect to a LAN network without using a modem or a network interface, as long as the system has a port. Terminal servers can be used to take control of a remote computer or virtual machine over a network connection.
 
-### Work Station Hardware
+## Work Station Hardware
 
-#### Interdepence of hardware with relevant networking software
+### Interdepence of hardware with relevant networking software
 
 Software essentially controls the hardware.These two components are complementary and cannot act independently of one another. In order for a node/device to effectively manipulate data and produce useful output, its hardware and software must work together. Without software, the hardware would be useless. Conversely, software cannot be used without supporting hardware.For example Server software is a type of software that is designed to be used, operated and managed on a computing server.Server software is integral when interacting with a server’s hardware infrastructure (processor, memory, storage, input/output (I/O), etc.), utilising the server for different functions and services, though primary using inherent computer capacity and resources to complete tasks. Incomparision client software is software that resides in a user's desktop or  device, contrast with server software. The client software is used to provide services or retrieve and utilise services provided by the server, providing an interface for the user to interact with these services. The hardware aspect and interdepence on the networking software relates to retieiving and displaying information/data taken from a server.
 
@@ -294,7 +293,7 @@ A firewall is a network security device that monitors incoming and outgoing netw
 
 Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.  A proxy server may reside on the user's local computer, or at various points between the user's computer and destination servers on the Internet. The proxy server provides increased performance and security.
 
-#### Network comparision
+### Network comparision
 
 A Network Interface Card , these cards connect directly into the motherboard of a computer, featuring an external network socket. This enables the computer to connect to a network via a network cable. Network cards let a computer exchange data with the network, using suitable protocols to achieve connection (for example CSMA/CD).
 
@@ -304,7 +303,7 @@ A mobile network is a communication network where the last link is wireless. The
 
 The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus achieving the same outcome with different methods or techniques. Whilst with regards to the cellular (mobile) and wireless network, both use a wireless form, though radio waves are used within the wireless network, whilst  cellular requires a dedicated control channel for transmitting digital information. 
 
-#### Cable 
+### Cable 
 
 Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. It is used for connecting multiple electronic devices and to better layout the physical hardware (cables) in the applied enviroment. A structured cabling system also provides an environment for data transfers that integrates telecoms networks, local or networked computer systems, video surveillance, and security. 
 
@@ -316,16 +315,17 @@ A shielded cable is an electrical cable of one or more insulated conductors encl
 
 Twisted Pair cable  is a copper wire, where the wiring entails two conductors of a single circuit are twisted together for the purposes of improving electromagnetic compatibility, and preventing cross talk between signals and interference (STP). This type of cable is widely used in different kinds of data and voice infrastructures.There are Two different types of twisted pair cable, unshielded twisted pair (UTP) and shielded twisted pair (STP), used in different kinds of installations. UTP is common in Ethernet installations, while STP is used in various kinds of networks to prevent crosstalk and electromagnetic interference. 
 
-#### Permissions
+### Permissions
 
 
 Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
 
 
-#### Local Workstation Architecture
+### Local Workstation Architecture
 
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
 
+#### System Bus 
 
 The system bus is a pathway composed of cables and connectors used to carry data between a computer microprocessor and the main memory  and, in some systems, with the level 2 (L2) cache. . The system bus works by combining the functions of three main buses: the data, address and control buses. Each of the three buses have there own retrospective characteristics and responsibilities. 
 
