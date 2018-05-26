@@ -292,10 +292,21 @@ The Client Operating System is a system that works within computer systems and v
 
 A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. The firewall is typically based on the  host or network. A host based firewall is used to monitor ingoing and outgoing signals. A network-based firewall can be built into the cloud's infrastructure, or can be a virtual firewall service.
 
-
 Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.  A proxy server may reside on the user's local computer, or at various points between the user's computer and destination servers on the Internet. The proxy server provides increased performance and security.
 
 #### Network and cabling comparision
+
+A Network Interface Card , these cards connect directly into the motherboard of a computer, featuring an external network socket. This enables the computer to connect to a network via a network cable. Network cards let a computer exchange data with the network, using suitable protocols to achieve connection (for example CSMA/CD).
+
+Wireless networks are networks that do not rely on cables to connect to a network but rather opts to use radio waves, an implementation that occurs  on the physical level of network structure.
+
+A mobile network is a communication network where the last link is wireless. The network is distributed over land areas called cells, each served by at least one fixed-location transceiver. These base stations provide the cell with the network coverage which can be used for transmission of data. A cell typically uses a different set of frequencies from neighboring cells, to avoid interference.
+
+The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus acheieivng the same outcome with different methods or techniques. 
+
+
+unique features tailored to suit there purposes
+
 
 Then explain the differences between network card, wireless, mobile and the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
 
