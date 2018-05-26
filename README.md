@@ -308,7 +308,11 @@ The underlying differences between a network card, wireless and mobile is essent
 
 Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. It is used for connecting multiple electronic devices and to better layout the physical hardware (cables) in the applied enviroment. A structured cabling system also provides an environment for data transfers that integrates telecoms networks, local or networked computer systems, video surveillance, and security. 
 
-A patch cable is an  electronic or optical cable used to connect (patch in)  devices to eachother for signal routing. Patch cords are relatively short hence why this type of cabling is used primarily for building home computer networks. The Patch cord cable differs from standard structured cabling cable in that patch cable is stranded for flexibility, whereas standard cable is solid copper. Because the patch cord uses stranded copper the probability of signal loss is higher on patch cords than solid cables so short lengths should be adhered to.
+
+Networking cables are networking hardware used to connect one network device to other network devices, these cables are usually differ based on the application having different ports and cable types. Examples of common types of cabling are listed below:
+
+A patch cable is an  electronic or optical cable used to connect (patch in)  devices to eachother for signal routing. Patch cords are relatively short hence why this type of cabling is used primarily for building home computer networks. The Patch cord cable differs from standard structured cabling cable in that the patch cable is stranded for flexibility, whereas standard cable is solid copper. Because the patch cord uses stranded copper the probability of signal loss is higher on patch cords than solid cables so short lengths should be adhered to.
+
 
 
 the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
