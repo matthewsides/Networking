@@ -117,6 +117,8 @@ The TCP model is not the same as the TCP protocol as the TCP model is a conceptu
 
 Routed protocols are defined as a protocol in which data can be routed. The most notable protocols consist of IPv4 and IPv6. IPv4 is the fourth version of the Internet Protocol, used for data communication over different kinds of networks. Though IPv4 was recently replaced 
 by IPv6, this was due to the limitations regarding IPv4's pool as IPv4 uses 32-bit addresses and is limited to 4,294,967,296 addresses.
+IPv6 is the new Internet protocol replacing IPv4,IPv6 uses three types of addressess, global unicast, multicast and anycast.Global unicast is essentially a public address that is globally unique in the Internet.This address is used as an identifier for a single interface, on a single node. A packet that is sent to a unicast address is delivered to the interface identified by that address. Multicast  addresses are logical identifiers for a group of hosts in a computer network that are available to process frames intended to be multicast for a designated network service. 
+
 
 
 
@@ -136,8 +138,7 @@ A logical topology is a concept regarding the arrangement of devices on a comput
  • Ring: The ring topology is a logical network in which each node connects to two other nodes  forming a single continuous pathway for signals through each node . In the ring topology  only one node is allowed to transfer the data in a network at a given time. This mechanism is achieved by token (the node having token only can transmit the data in a network) and hence the collision can be avoided in a network.
 
  • Bus: Ethernet uses the logical bus topology to transfer data. Through  a bus topology a node broadcasts the data to the entire network. All other nodes on the network recieve the data and check if the data is intended for them.
- 
- 
+
 ### Physical 
 
 A physical topology refers to the arrangement or layout of computers, cables, and other components on a network (LAN). The use of a physical topology allows for the organisation of a network, through physically laying it out in relation to the enviroment (office,home,etc.) and requires prior planning.
