@@ -313,7 +313,7 @@ Networking cables are networking hardware used to connect one network device to 
 
 A patch cable is an  electronic or optical cable used to connect (patch in)  devices to eachother for signal routing. Patch cords are relatively short hence why this type of cabling is used primarily for building home computer networks. The Patch cord cable differs from standard structured cabling cable in that the patch cable is stranded for flexibility, whereas standard cable is solid copper. Because the patch cord uses stranded copper the probability of signal loss is higher on patch cords than solid cables so short lengths should be adhered to.
 
-
+A shielded cable is an electrical cable of one or more insulated conductors enclosed by a common conductive layer, either being copper or aluminium. Shielding prevents crosstalk between cables near each other,reducing electrical noise and the impact on signals. Shield cabling is generally used in an enviroment where noise is constant as the noise/signals can interfere with  data traffic on a network and prevent computers from “hearing” important data. This data is lost and computers have to re-send it a second time, as this proccess is repeated by numerous systems the network slows down. 
 
 the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
 
