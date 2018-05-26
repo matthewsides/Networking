@@ -293,11 +293,10 @@ The Client Operating System is a system that works within computer systems and v
 A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. The firewall is typically based on the  host or network. A host based firewall is used to monitor ingoing and outgoing signals. A network-based firewall can be built into the cloud's infrastructure, or can be a virtual firewall service.
 
 
-Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.
+Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.  A proxy server may reside on the user's local computer, or at various points between the user's computer and destination servers on the Internet. The proxy server provides increased performance and security.
 
-In this section “Workstation Hardware”, explain and discuss the “interdependence” of hardware with the relevant networking software
-Include elements: 
-(client software, server software, client operating system, server operating system, firewall and proxies)
+
+
 Then explain the differences between network card, wireless, mobile and the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
 Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
