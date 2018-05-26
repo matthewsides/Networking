@@ -327,7 +327,7 @@ Review the need for permissions (explain the difference between local permission
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
 
 
-The system bus is a pathway composed of cables and connectors used to carry data between a computer microprocessor and the main memory. 
+The system bus is a pathway composed of cables and connectors used to carry data between a computer microprocessor and the main memory  and, in some systems, with the level 2 (L2) cache. . The system bus works by combining the functions of three main buses: the data, address and control buses. Each of the three buses have there own retrospective characteristics and responsibilities. 
 
  • Data: Data is digital pieces of information with a purpose, transferred between peripherals, memory and the processor.
  
