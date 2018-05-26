@@ -304,7 +304,7 @@ A mobile network is a communication network where the last link is wireless. The
 
 The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus achieving the same outcome with different methods or techniques. Whilst with regards to the cellular (mobile) and wireless network, both use a wireless form, though radio waves are used within the wireless network, whilst  cellular requires a dedicated control channel for transmitting digital information. 
 
-#### Cable comparision
+#### Cable 
 
 Structured cabling refers to the standardised  architecture, components and infrastructure for communications. Structured Cabling is a type of infrastructure that supports the performance of an organisations network. It is used for connecting multiple electronic devices and to better layout the physical hardware (cables) in the applied enviroment. A structured cabling system also provides an environment for data transfers that integrates telecoms networks, local or networked computer systems, video surveillance, and security. 
 
