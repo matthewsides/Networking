@@ -302,13 +302,11 @@ Wireless networks are networks that do not rely on cables to connect to a networ
 
 A mobile network is a communication network where the last link is wireless. The network is distributed over land areas called cells, each served by at least one fixed-location transceiver. These base stations provide the cell with the network coverage which can be used for transmission of data. A cell typically uses a different set of frequencies from neighboring cells, to avoid interference.
 
-The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus acheieivng the same outcome with different methods or techniques. 
+The underlying differences between a network card, wireless and mobile is essentially the proccess as a networking card, wireless and mobile are all used in the transmission of data, communication and connectivity. The proccess refering to the physical set up and how each one acheives its purpose. For instance a network card is intergrated into a motherboard and then ustilises cabling to connect to a network. In comparision wireless is external and requires no cabling to function also connecting devices to a network, thus achieving the same outcome with different methods or techniques. Whilst with regards to the cellular (mobile) and wireless network, both use a wireless form, though radio waves are used within the wireless network, whilst  cellular requires a dedicated control channel for transmitting digital information. 
 
 
-unique features tailored to suit there purposes
 
-
-Then explain the differences between network card, wireless, mobile and the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
+the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
 
 #### Permissions
 
