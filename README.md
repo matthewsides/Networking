@@ -324,9 +324,7 @@ NTFS permissions essentially determine the action users can take for a folder or
 
 ### Local Workstation Architecture
 
-A workstation (WS) is a specilised  computer,with one or more high resolution displays and a faster processor than a personal computer . Moreover a workstation also has greater multitasking capability because of additional random access memory (RAM), drives and drive capacity. A workstation may also have a higher-speed graphics adapters and more connected peripherals.
-
-Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
+A workstation (WS) is a specialised computer (usually built with an optimised design for complex data manipulation and visualisation / display) ,with one or more high resolution displays and a faster processor than a personal computer. Moreover a workstation also has greater multitasking capability because of additional random access memory (RAM), drives and drive capacity. A workstation may also have a higher-speed graphics adapters and more connected peripherals. 
 
 #### System Bus 
 
@@ -337,7 +335,6 @@ The system bus is a pathway composed of cables and connectors used to carry data
  • Address: The address defines the data's location and pathway during a particular operation.
 
  • Control: The control refers and handles the management of operations of motherboard components, allocating instructions and overseeing the flow of address and data information. This includes the direction for transfering information and how data needs to be routed through the computer system.
-
 
 ## Network Design
 
