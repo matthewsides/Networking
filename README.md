@@ -1,4 +1,3 @@
-
 # Networking 
 
 ## Networking Types and Standards
@@ -323,10 +322,9 @@ Share permissions are permissions are set for a folder when a folder is shared. 
 
 NTFS permissions essentially determine the action users can take for a folder or file both across the network and locally. Though incomparision to share permissions, NTFS permissions incorparate an additional  seven permissions besides Full Control, Change, and Read that can be set for groups or individually. The most restrictive permission applies when share and NTFS permissions conflict.
 
-
-
 ### Local Workstation Architecture
 
+A workstation (WS) is a specilised  computer,with one or more high resolution displays and a faster processor than a personal computer . Moreover a workstation also has greater multitasking capability because of additional random access memory (RAM), drives and drive capacity. A workstation may also have a higher-speed graphics adapters and more connected peripherals.
 
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
 
