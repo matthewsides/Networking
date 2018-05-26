@@ -295,11 +295,22 @@ A firewall is a network security device that monitors incoming and outgoing netw
 
 Whilst a proxy server is a server that acts as an intermediary (gateway) for requests from clients seeking resources from other servers.  A proxy server may reside on the user's local computer, or at various points between the user's computer and destination servers on the Internet. The proxy server provides increased performance and security.
 
-
+#### Network and cabling comparision
 
 Then explain the differences between network card, wireless, mobile and the different type of cabling (infrastructure, patch, networking, shielded and twisted pair)
+
+#### Permissions
+
+
 Review the need for permissions (explain the difference between local permissions NTFS and network shared permissions ) 
 Local workstation architecture e.g. memory, processor, I/O devices - include a small section on the system bus and how this works (in simple terms CPI->Memory->IO->Data->Control)
+
+#### Local Workstation Architecture
+
+
+
+
+
 
 
 ## Network Design
